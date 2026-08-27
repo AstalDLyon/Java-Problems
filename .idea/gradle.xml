@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="temurin-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/For loop/For loop" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment and decrement" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer types and operations" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Naming variables" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Primitive and reference types" />
+            <option value="$PROJECT_DIR$/Topics/Text blocks/New approach" />
+            <option value="$PROJECT_DIR$/Topics/Text blocks/Text blocks" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Type casting" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/While and do-while loops" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

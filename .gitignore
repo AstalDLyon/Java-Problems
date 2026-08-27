@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Topics/For loop/Numbers divisible by six/out/
+/Topics/For loop/Numbers divisible by six/out/production/classes/
+/Topics/For loop/The product of numbers from a to b/out/
+/Topics/For loop/The product of numbers from a to b/out/production/classes/
+/Topics/For loop/The sum of integers from a to b/out/
+/Topics/For loop/The sum of integers from a to b/out/production/classes/
+/Topics/Integer types and operations/Computing the remainder and its triple/out/
+/Topics/Integer types and operations/Computing the remainder and its triple/out/production/classes/
+/Topics/Text blocks/New approach/out/
+/Topics/Text blocks/New approach/out/production/classes/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/
+/Topics/Type casting/Rounding down a halved float value to an integer/out/production/classes/
+/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt/out/
+/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt/out/production/classes/
+/build/
