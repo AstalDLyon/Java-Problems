@@ -7,3 +7,8 @@ content:
   - Type casting
   - Text blocks
   - While and do-while loops
+  - Floating-point types and operations
+  - One-line condition with ternary operator
+  - Boolean type and operations. True and false
+  - Conditional statement
+  - Break and continue. Branching

@@ -11,8 +11,26 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Boolean type and operations. True and false" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Checking if a number is even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Break and continue. Branching" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Bus tour" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Conditional statement" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Floating-point types and operations" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Topics/For loop/For loop" />
             <option value="$PROJECT_DIR$/Topics/For loop/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Summoning the special numbers" />
             <option value="$PROJECT_DIR$/Topics/For loop/The product of numbers from a to b" />
             <option value="$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
@@ -24,13 +42,18 @@
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/Naming variables" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Check if a given number is equal to 10" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/One-line condition with ternary operator" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
             <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Primitive and reference types" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/New approach" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/Text blocks" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Type casting" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The largest element of a sequence" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/While and do-while loops" />
             <option value="$PROJECT_DIR$/util" />
           </set>

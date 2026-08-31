@@ -2,8 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="25">
+      <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Boolean_type_and_operations__True_and_false.main" target="23" />
+      <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Checking_if_a_number_is_even_or_odd.main" target="23" />
+      <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Evaluating_the_conjunction_of_two_booleans.main" target="23" />
+      <module name="Java_Problems1.Topics-Break_and_continue__Branching-Break_and_continue__Branching.main" target="23" />
+      <module name="Java_Problems1.Topics-Break_and_continue__Branching-Bus_tour.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Check_a_number_is_positive.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Conditional_statement.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Leap_year.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-The_army_of_units.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Triangle.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Distance.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Exponential_expression.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Find_X.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Floating-point_types_and_operations.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Liquid_pressure.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-Fizz_Buzz.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-For_loop.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-Numbers_divisible_by_six.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-Summoning_the_special_numbers.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-The_product_of_numbers_from_a_to_b.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-The_sum_of_integers_from_a_to_b.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" target="23" />
@@ -15,13 +33,18 @@
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Tens_digit.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-From_cryptic_to_crystal__Weather's_facelift.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Naming_variables.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Categorize_integer_as_positive,_negative,_or_zero.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-One-line_condition_with_ternary_operator.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Primitive_and_reference_types.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-New_approach.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-Text_blocks.main" target="23" />
+      <module name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Rounding_down_a_halved_float_value_to_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Type_casting.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-Celsius_Chase__Climbing_to_a_Fiery_Halt.main" target="23" />
+      <module name="Java_Problems1.Topics-While_and_do-while_loops-The_largest_element_of_a_sequence.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-While_and_do-while_loops.main" target="23" />
       <module name="Java_Problems1.util.main" target="23" />
     </bytecodeTargetLevel>
