@@ -11,6 +11,6 @@ class Main {
                 maxNumber = inputNumber;
             }
         }
-        System.out.println(maxNumber); // da pra fazer com ambos while e do-while
+        System.out.println(maxNumber);
     }
 }

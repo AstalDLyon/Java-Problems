@@ -12,3 +12,6 @@ content:
   - Boolean type and operations. True and false
   - Conditional statement
   - Break and continue. Branching
+  - Declaring methods
+  - Calling methods
+  - Array

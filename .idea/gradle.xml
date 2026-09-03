@@ -11,17 +11,25 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Boolean type and operations. True and false" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Checking if a number is even or odd" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Break and continue. Branching" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Bus tour" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Calling methods" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Product and rounded average of two integers" />
             <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
             <option value="$PROJECT_DIR$/Topics/Conditional statement/Conditional statement" />
             <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
             <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
             <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
             <option value="$PROJECT_DIR$/Topics/Conditional statement/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Declaring methods" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Raise to the power" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Sum of numbers in the range" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Distance" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Exponential expression" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Find X" />
@@ -54,6 +62,7 @@
             <option value="$PROJECT_DIR$/Topics/Type casting/Type casting" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/Celsius Chase  Climbing to a Fiery Halt" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/While and do-while loops/The length of the sequence" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/While and do-while loops" />
             <option value="$PROJECT_DIR$/util" />
           </set>

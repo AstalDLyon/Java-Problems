@@ -2,17 +2,25 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="25">
+      <module name="Java_Problems1.Topics-Array-Array.main" target="23" />
+      <module name="Java_Problems1.Topics-Array-Initializing_an_array_of_longs.main" target="23" />
       <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Boolean_type_and_operations__True_and_false.main" target="23" />
       <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Checking_if_a_number_is_even_or_odd.main" target="23" />
       <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Evaluating_the_conjunction_of_two_booleans.main" target="23" />
       <module name="Java_Problems1.Topics-Break_and_continue__Branching-Break_and_continue__Branching.main" target="23" />
       <module name="Java_Problems1.Topics-Break_and_continue__Branching-Bus_tour.main" target="23" />
+      <module name="Java_Problems1.Topics-Calling_methods-Call_me_awesome.main" target="23" />
+      <module name="Java_Problems1.Topics-Calling_methods-Calling_methods.main" target="23" />
+      <module name="Java_Problems1.Topics-Calling_methods-Product_and_rounded_average_of_two_integers.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Check_a_number_is_positive.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Conditional_statement.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Leap_year.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-The_army_of_units.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Triangle.main" target="23" />
+      <module name="Java_Problems1.Topics-Declaring_methods-Declaring_methods.main" target="23" />
+      <module name="Java_Problems1.Topics-Declaring_methods-Raise_to_the_power.main" target="23" />
+      <module name="Java_Problems1.Topics-Declaring_methods-Sum_of_numbers_in_the_range.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Distance.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Exponential_expression.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Find_X.main" target="23" />
@@ -45,6 +53,7 @@
       <module name="Java_Problems1.Topics-Type_casting-Type_casting.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-Celsius_Chase__Climbing_to_a_Fiery_Halt.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-The_largest_element_of_a_sequence.main" target="23" />
+      <module name="Java_Problems1.Topics-While_and_do-while_loops-The_length_of_the_sequence.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-While_and_do-while_loops.main" target="23" />
       <module name="Java_Problems1.util.main" target="23" />
     </bytecodeTargetLevel>
