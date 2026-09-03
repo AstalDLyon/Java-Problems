@@ -21,6 +21,9 @@
       <module name="Java_Problems1.Topics-Declaring_methods-Declaring_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Declaring_methods-Raise_to_the_power.main" target="23" />
       <module name="Java_Problems1.Topics-Declaring_methods-Sum_of_numbers_in_the_range.main" target="23" />
+      <module name="Java_Problems1.Topics-Errors_in_programs-Errors_in_programs.main" target="23" />
+      <module name="Java_Problems1.Topics-Errors_in_programs-Validating_and_squaring_user_input.main" target="23" />
+      <module name="Java_Problems1.Topics-Errors_in_programs-What's_wrong.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Distance.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Exponential_expression.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Find_X.main" target="23" />
