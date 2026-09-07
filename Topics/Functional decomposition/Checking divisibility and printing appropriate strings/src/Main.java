@@ -29,6 +29,6 @@ public class Main {
 
     // function isDivByThreeAndFive will be here
     static boolean isDivByThreeAndFive(int num) {
-        return ((num % 3) == 0) && ((num % 5) == 0);
+        return (num % 3) == 0 && (num % 5) == 0;
     }
 }

@@ -39,6 +39,7 @@
       <module name="Java_Problems1.Topics-Functional_decomposition-Checking_divisibility_and_printing_appropriate_strings.main" target="23" />
       <module name="Java_Problems1.Topics-Functional_decomposition-Functional_decomposition.main" target="23" />
       <module name="Java_Problems1.Topics-Functional_decomposition-Math_wizardry_in_your_pocket.main" target="23" />
+      <module name="Java_Problems1.Topics-Functional_decomposition-Method_createFullName.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increment_and_decrement.main" target="23" />
