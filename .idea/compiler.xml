@@ -4,12 +4,15 @@
     <bytecodeTargetLevel target="25">
       <module name="Java_Problems1.Topics-Array-Array.main" target="23" />
       <module name="Java_Problems1.Topics-Array-Initializing_an_array_of_longs.main" target="23" />
+      <module name="Java_Problems1.Topics-Arrays_as_parameters-Arrays_as_parameters.main" target="23" />
+      <module name="Java_Problems1.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="23" />
       <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Boolean_type_and_operations__True_and_false.main" target="23" />
       <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Checking_if_a_number_is_even_or_odd.main" target="23" />
       <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Evaluating_the_conjunction_of_two_booleans.main" target="23" />
       <module name="Java_Problems1.Topics-Break_and_continue__Branching-Break_and_continue__Branching.main" target="23" />
       <module name="Java_Problems1.Topics-Break_and_continue__Branching-Bus_tour.main" target="23" />
       <module name="Java_Problems1.Topics-Break_and_continue__Branching-Even_or_odd.main" target="23" />
+      <module name="Java_Problems1.Topics-Calling_methods-Area_of_parallelogram.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Call_me_awesome.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Calling_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Product_and_rounded_average_of_two_integers.main" target="23" />
@@ -22,6 +25,10 @@
       <module name="Java_Problems1.Topics-Declaring_methods-Declaring_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Declaring_methods-Raise_to_the_power.main" target="23" />
       <module name="Java_Problems1.Topics-Declaring_methods-Sum_of_numbers_in_the_range.main" target="23" />
+      <module name="Java_Problems1.Topics-Declaring_methods-The_sign_of_a_number.main" target="23" />
+      <module name="Java_Problems1.Topics-Defining_classes-Books.main" target="23" />
+      <module name="Java_Problems1.Topics-Defining_classes-Complex_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-Defining_classes-Defining_classes.main" target="23" />
       <module name="Java_Problems1.Topics-Errors_in_programs-Errors_in_programs.main" target="23" />
       <module name="Java_Problems1.Topics-Errors_in_programs-Validating_and_squaring_user_input.main" target="23" />
       <module name="Java_Problems1.Topics-Errors_in_programs-What's_wrong.main" target="23" />
@@ -43,6 +50,9 @@
       <module name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increment_and_decrement.main" target="23" />
+      <module name="Java_Problems1.Topics-Instance_methods-Counter.main" target="23" />
+      <module name="Java_Problems1.Topics-Instance_methods-In_a_box.main" target="23" />
+      <module name="Java_Problems1.Topics-Instance_methods-Instance_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Integer_types_and_operations.main" target="23" />
@@ -62,6 +72,10 @@
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-One-line_condition_with_ternary_operator.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Primitive_and_reference_types.main" target="23" />
+      <module name="Java_Problems1.Topics-Printing_data-First,_second,_third.main" target="23" />
+      <module name="Java_Problems1.Topics-Printing_data-Printing_data.main" target="23" />
+      <module name="Java_Problems1.Topics-Printing_data-Square_a_user-inputted_integer.main" target="23" />
+      <module name="Java_Problems1.Topics-Printing_data-We_need_to_learn_Java.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-New_approach.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-Text_blocks.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" target="23" />

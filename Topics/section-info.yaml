@@ -19,3 +19,7 @@ content:
   - Method  main
   - Multiple conditions  switch
   - Functional decomposition
+  - Arrays as parameters
+  - Printing data
+  - Defining classes
+  - Instance methods
