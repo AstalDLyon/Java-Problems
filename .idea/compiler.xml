@@ -50,6 +50,11 @@
       <module name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increment_and_decrement.main" target="23" />
+      <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Account_and_its_owner.main" target="23" />
+      <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Complex_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Geometric_cube.main" target="23" />
+      <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Initializing_new_instances__Constructor.main" target="23" />
+      <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-User.main" target="23" />
       <module name="Java_Problems1.Topics-Instance_methods-Car.main" target="23" />
       <module name="Java_Problems1.Topics-Instance_methods-Counter.main" target="23" />
       <module name="Java_Problems1.Topics-Instance_methods-In_a_box.main" target="23" />
