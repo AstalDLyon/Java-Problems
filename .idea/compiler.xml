@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="25">
+      <module name="Java_Problems1.Topics-Arithmetic_operations-Arithmetic_operations.main" target="23" />
+      <module name="Java_Problems1.Topics-Arithmetic_operations-Calculating_average_speed_from_distance_and_time.main" target="23" />
       <module name="Java_Problems1.Topics-Array-Array.main" target="23" />
       <module name="Java_Problems1.Topics-Array-Initializing_an_array_of_longs.main" target="23" />
       <module name="Java_Problems1.Topics-Arrays_as_parameters-Arrays_as_parameters.main" target="23" />
@@ -16,6 +18,10 @@
       <module name="Java_Problems1.Topics-Calling_methods-Call_me_awesome.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Calling_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Product_and_rounded_average_of_two_integers.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Comments.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Javadoc_comment.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Printing_only_the_longest_line.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-The_countdown.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Check_a_number_is_positive.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Conditional_statement.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" target="23" />
@@ -85,6 +91,9 @@
       <module name="Java_Problems1.Topics-Printing_data-Printing_data.main" target="23" />
       <module name="Java_Problems1.Topics-Printing_data-Square_a_user-inputted_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Printing_data-We_need_to_learn_Java.main" target="23" />
+      <module name="Java_Problems1.Topics-Processing_strings-Double_characters.main" target="23" />
+      <module name="Java_Problems1.Topics-Processing_strings-Processing_strings.main" target="23" />
+      <module name="Java_Problems1.Topics-Processing_strings-The_lucky_ticket.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Detail_manufacturing.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Static_members.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Time_constants.main" target="23" />
@@ -94,6 +103,9 @@
       <module name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Rounding_down_a_halved_float_value_to_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Type_casting.main" target="23" />
+      <module name="Java_Problems1.Topics-Types_and_variables-Assignments.main" target="23" />
+      <module name="Java_Problems1.Topics-Types_and_variables-Fill_the_declaration.main" target="23" />
+      <module name="Java_Problems1.Topics-Types_and_variables-Types_and_variables.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-Celsius_Chase__Climbing_to_a_Fiery_Halt.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-The_largest_element_of_a_sequence.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-The_length_of_the_sequence.main" target="23" />
