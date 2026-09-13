@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Harry Potter/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Harry Potter/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

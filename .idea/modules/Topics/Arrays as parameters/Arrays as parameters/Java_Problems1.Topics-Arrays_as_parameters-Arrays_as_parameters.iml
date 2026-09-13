@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Arrays as parameters/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Arrays as parameters/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

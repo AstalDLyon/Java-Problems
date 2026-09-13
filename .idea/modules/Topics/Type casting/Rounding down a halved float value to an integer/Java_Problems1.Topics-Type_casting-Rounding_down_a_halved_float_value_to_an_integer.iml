@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Rounding down a halved float value to an integer/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Rounding down a halved float value to an integer/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

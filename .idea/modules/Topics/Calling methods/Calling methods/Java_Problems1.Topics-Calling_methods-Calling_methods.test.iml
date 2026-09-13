@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Calling methods/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Calling methods/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Calling_methods-Calling_methods.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

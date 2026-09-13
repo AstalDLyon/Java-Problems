@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Checking if a number is even or odd/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Checking if a number is even or odd/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Checking_if_a_number_is_even_or_odd.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

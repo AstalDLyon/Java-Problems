@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Increment and decrement/Decrement all/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Increment and decrement/Decrement all/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

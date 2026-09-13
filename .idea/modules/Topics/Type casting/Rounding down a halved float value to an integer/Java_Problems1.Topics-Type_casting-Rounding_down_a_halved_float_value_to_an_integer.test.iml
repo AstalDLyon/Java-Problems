@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Rounding down a halved float value to an integer/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Rounding down a halved float value to an integer/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Type_casting-Rounding_down_a_halved_float_value_to_an_integer.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

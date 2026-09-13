@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Call me awesome/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Call me awesome/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Calling_methods-Call_me_awesome.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

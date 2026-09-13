@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Floating-point types and operations/Exponential expression/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Floating-point types and operations/Exponential expression/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

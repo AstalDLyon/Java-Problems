@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Initializing new instances. Constructor/Geometric cube/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Initializing new instances. Constructor/Geometric cube/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Geometric_cube.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

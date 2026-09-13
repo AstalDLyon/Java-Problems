@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

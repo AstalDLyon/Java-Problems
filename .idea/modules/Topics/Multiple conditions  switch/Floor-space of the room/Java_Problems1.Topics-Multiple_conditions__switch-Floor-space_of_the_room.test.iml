@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Floor-space of the room/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Floor-space of the room/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

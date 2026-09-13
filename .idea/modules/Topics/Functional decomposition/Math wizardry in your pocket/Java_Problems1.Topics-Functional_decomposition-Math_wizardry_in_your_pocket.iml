@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Math wizardry in your pocket/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Math wizardry in your pocket/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

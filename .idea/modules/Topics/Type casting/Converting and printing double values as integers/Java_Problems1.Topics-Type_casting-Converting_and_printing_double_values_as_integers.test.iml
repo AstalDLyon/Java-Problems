@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Converting and printing double values as integers/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Converting and printing double values as integers/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

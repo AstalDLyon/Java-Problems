@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Initializing new instances. Constructor/Account and its owner/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Initializing new instances. Constructor/Account and its owner/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

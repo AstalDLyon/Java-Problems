@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Day of the week from an integer/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Day of the week from an integer/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

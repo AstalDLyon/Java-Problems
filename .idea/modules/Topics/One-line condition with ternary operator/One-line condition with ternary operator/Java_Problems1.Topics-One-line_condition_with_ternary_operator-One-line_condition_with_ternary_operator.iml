@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/One-line condition with ternary operator/One-line condition with ternary operator/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/One-line condition with ternary operator/One-line condition with ternary operator/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

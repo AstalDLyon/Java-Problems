@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Array/Initializing an array of longs/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Array/Initializing an array of longs/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Array-Initializing_an_array_of_longs.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

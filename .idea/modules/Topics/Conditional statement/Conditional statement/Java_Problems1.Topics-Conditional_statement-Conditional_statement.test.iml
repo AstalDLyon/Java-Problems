@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Conditional statement/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Conditional statement/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Conditional_statement-Conditional_statement.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

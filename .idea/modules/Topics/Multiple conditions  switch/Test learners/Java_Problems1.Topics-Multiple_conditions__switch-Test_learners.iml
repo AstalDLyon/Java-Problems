@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Test learners/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Test learners/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

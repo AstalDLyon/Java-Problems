@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Square a user-inputted integer/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Square a user-inputted integer/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Printing_data-Square_a_user-inputted_integer.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

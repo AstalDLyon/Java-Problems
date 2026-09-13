@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Area of parallelogram/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Area of parallelogram/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Calling_methods-Area_of_parallelogram.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

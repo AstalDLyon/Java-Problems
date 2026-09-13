@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Sum of numbers in the range/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Sum of numbers in the range/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Method  main/Calculating factorial of a given number/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Method  main/Calculating factorial of a given number/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

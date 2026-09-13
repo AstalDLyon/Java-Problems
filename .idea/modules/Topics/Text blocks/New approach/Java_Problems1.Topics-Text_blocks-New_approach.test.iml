@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Text blocks/New approach/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Text blocks/New approach/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Text_blocks-New_approach.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

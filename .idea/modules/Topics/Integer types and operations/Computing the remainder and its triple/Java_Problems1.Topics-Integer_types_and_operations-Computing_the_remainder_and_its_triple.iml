@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integer types and operations/Computing the remainder and its triple/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integer types and operations/Computing the remainder and its triple/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

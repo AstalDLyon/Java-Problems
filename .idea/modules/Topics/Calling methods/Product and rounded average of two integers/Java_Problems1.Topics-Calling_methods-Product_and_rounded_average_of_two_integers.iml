@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Product and rounded average of two integers/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Calling methods/Product and rounded average of two integers/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

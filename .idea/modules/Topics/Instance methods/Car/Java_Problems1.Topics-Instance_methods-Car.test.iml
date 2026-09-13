@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Instance methods/Car/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Instance methods/Car/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Instance_methods-Car.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

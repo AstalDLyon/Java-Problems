@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Primitive and reference types/Creating a primitive/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Primitive and reference types/Creating a primitive/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_primitive.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

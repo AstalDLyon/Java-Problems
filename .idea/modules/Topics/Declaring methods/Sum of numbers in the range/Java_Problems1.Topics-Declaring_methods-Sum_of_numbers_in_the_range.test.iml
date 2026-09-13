@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Sum of numbers in the range/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Declaring methods/Sum of numbers in the range/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Declaring_methods-Sum_of_numbers_in_the_range.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

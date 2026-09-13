@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Instance methods/In a box/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Instance methods/In a box/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Instance_methods-In_a_box.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

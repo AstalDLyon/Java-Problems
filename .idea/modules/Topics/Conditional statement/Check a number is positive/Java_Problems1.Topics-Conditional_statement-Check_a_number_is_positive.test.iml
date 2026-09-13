@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Check a number is positive/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Check a number is positive/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Conditional_statement-Check_a_number_is_positive.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

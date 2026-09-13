@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/From cryptic to crystal  Weather's facelift/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/From cryptic to crystal  Weather's facelift/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

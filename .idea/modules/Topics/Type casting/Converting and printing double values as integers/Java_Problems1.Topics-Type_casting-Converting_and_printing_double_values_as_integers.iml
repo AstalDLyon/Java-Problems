@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Converting and printing double values as integers/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Type casting/Converting and printing double values as integers/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

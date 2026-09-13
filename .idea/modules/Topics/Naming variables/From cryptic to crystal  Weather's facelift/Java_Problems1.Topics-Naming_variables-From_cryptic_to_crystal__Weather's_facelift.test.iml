@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/From cryptic to crystal  Weather's facelift/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/From cryptic to crystal  Weather's facelift/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Naming_variables-From_cryptic_to_crystal__Weather's_facelift.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

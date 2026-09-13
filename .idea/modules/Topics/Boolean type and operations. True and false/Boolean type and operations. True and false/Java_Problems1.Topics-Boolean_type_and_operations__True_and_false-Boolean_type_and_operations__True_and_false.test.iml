@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Boolean type and operations. True and false/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Boolean type and operations. True and false/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Boolean_type_and_operations__True_and_false.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

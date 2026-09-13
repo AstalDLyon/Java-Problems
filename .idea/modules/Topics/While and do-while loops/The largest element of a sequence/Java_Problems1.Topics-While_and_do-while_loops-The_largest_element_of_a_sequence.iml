@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/While and do-while loops/The largest element of a sequence/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/While and do-while loops/The largest element of a sequence/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

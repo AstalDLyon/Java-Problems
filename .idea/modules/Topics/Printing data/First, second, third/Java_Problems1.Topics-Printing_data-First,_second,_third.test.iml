@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/First, second, third/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/First, second, third/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Printing_data-First,_second,_third.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

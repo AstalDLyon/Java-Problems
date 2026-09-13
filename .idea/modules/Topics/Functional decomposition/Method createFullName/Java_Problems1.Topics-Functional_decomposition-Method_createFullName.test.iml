@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Method createFullName/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Functional decomposition/Method createFullName/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Functional_decomposition-Method_createFullName.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

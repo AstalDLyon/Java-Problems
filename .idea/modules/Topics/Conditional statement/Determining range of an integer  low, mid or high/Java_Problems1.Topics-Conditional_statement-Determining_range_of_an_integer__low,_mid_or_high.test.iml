@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Determining range of an integer  low, mid or high/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Conditional statement/Determining range of an integer  low, mid or high/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

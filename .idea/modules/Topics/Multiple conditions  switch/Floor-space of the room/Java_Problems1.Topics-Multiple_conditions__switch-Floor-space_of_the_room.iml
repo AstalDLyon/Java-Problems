@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Floor-space of the room/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Floor-space of the room/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

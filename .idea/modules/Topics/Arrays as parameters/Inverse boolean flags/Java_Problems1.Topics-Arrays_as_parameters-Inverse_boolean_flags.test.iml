@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Inverse boolean flags/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Arrays as parameters/Inverse boolean flags/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

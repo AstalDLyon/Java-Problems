@@ -73,6 +73,9 @@
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Test_learners.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-From_cryptic_to_crystal__Weather's_facelift.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Naming_variables.main" target="23" />
+      <module name="Java_Problems1.Topics-Objects_and_their_properties-Army.main" target="23" />
+      <module name="Java_Problems1.Topics-Objects_and_their_properties-Null_or_not.main" target="23" />
+      <module name="Java_Problems1.Topics-Objects_and_their_properties-Objects_and_their_properties.main" target="23" />
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Categorize_integer_as_positive,_negative,_or_zero.main" target="23" />
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.main" target="23" />
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-One-line_condition_with_ternary_operator.main" target="23" />
@@ -82,6 +85,10 @@
       <module name="Java_Problems1.Topics-Printing_data-Printing_data.main" target="23" />
       <module name="Java_Problems1.Topics-Printing_data-Square_a_user-inputted_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Printing_data-We_need_to_learn_Java.main" target="23" />
+      <module name="Java_Problems1.Topics-Static_members-Detail_manufacturing.main" target="23" />
+      <module name="Java_Problems1.Topics-Static_members-Static_members.main" target="23" />
+      <module name="Java_Problems1.Topics-Static_members-Time_constants.main" target="23" />
+      <module name="Java_Problems1.Topics-Static_members-Too_many_cats.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-New_approach.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-Text_blocks.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" target="23" />

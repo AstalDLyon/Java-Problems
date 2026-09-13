@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Increment and decrement/Increase, decrease and increase an integer/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Increment and decrement/Increase, decrease and increase an integer/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

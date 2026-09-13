@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Defining classes/Complex numbers/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Defining_classes-Complex_numbers.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

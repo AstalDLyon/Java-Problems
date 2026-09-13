@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/Naming variables/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Naming variables/Naming variables/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Naming_variables-Naming_variables.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/build" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/out" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/One-line condition with ternary operator/Check if a given number is equal to 10/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/One-line condition with ternary operator/Check if a given number is equal to 10/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

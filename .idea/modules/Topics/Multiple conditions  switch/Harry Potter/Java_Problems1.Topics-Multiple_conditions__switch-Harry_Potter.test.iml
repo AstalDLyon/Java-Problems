@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Harry Potter/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Multiple conditions  switch/Harry Potter/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Multiple_conditions__switch-Harry_Potter.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

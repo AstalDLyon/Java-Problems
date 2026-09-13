@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Boolean type and operations. True and false/Evaluating the conjunction of two booleans/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Evaluating_the_conjunction_of_two_booleans.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />

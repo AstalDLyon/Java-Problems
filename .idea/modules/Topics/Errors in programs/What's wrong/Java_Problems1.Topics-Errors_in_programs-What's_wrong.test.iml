@@ -5,7 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Errors in programs/What's wrong/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Errors in programs/What's wrong/test" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="temurin-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Java_Problems1.Topics-Errors_in_programs-What's_wrong.main" />
     <orderEntry type="module" module-name="Java_Problems1.util.main" />
