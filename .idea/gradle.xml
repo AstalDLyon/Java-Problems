@@ -76,6 +76,7 @@
             <option value="$PROJECT_DIR$/Topics/Instance methods/Instance methods" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer types and operations" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Calculating factorial of a given number" />
@@ -85,9 +86,11 @@
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room" />
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Harry Potter" />
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Multiple conditions  switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Shape" />
             <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Test learners" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/Naming variables" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Roadrunner's digital dashboard dilemma" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Objects and their properties" />
@@ -109,6 +112,8 @@
             <option value="$PROJECT_DIR$/Topics/Static members/Static members" />
             <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
             <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/Create an email" />
+            <option value="$PROJECT_DIR$/Topics/StringBuilder/StringBuilder" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/New approach" />
             <option value="$PROJECT_DIR$/Topics/Text blocks/Text blocks" />
             <option value="$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers" />

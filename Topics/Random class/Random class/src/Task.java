@@ -4,11 +4,24 @@ import java.util.Random;
 
 public class Task {
   public static void main(String[] args) {
-    Random random = new Random ();
-    int min = 50;
-    int max = 100;
-    int range = max - min + 1;
-    int randomNumber = random.nextInt(range) + min;
-    System.out.println("Random number between 50 and 100: " + randomNumber ) ;
-  }
+    class MyClass {
+
+      static int field = 10;
+
+      public MyClass() {
+        method2(); // (1)
+      }
+
+      void method1() {
+        method2(); // (2)
+      }
+
+      static void method2() {
+        this.method3(); // (3)
+      }
+
+      void method3() {
+        System.out.println(field); // (4)
+      }
+    }
 }

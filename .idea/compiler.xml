@@ -67,6 +67,7 @@
       <module name="Java_Problems1.Topics-Instance_methods-Instance_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Difference_of_times.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Integer_types_and_operations.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Tens_digit.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" target="23" />
@@ -76,9 +77,11 @@
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Harry_Potter.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Multiple_conditions__switch.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_conditions__switch-Shape.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Test_learners.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-From_cryptic_to_crystal__Weather's_facelift.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Naming_variables.main" target="23" />
+      <module name="Java_Problems1.Topics-Naming_variables-Roadrunner's_digital_dashboard_dilemma.main" target="23" />
       <module name="Java_Problems1.Topics-Objects_and_their_properties-Army.main" target="23" />
       <module name="Java_Problems1.Topics-Objects_and_their_properties-Null_or_not.main" target="23" />
       <module name="Java_Problems1.Topics-Objects_and_their_properties-Objects_and_their_properties.main" target="23" />
@@ -100,6 +103,8 @@
       <module name="Java_Problems1.Topics-Static_members-Static_members.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Time_constants.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Too_many_cats.main" target="23" />
+      <module name="Java_Problems1.Topics-StringBuilder-Create_an_email.main" target="23" />
+      <module name="Java_Problems1.Topics-StringBuilder-StringBuilder.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-New_approach.main" target="23" />
       <module name="Java_Problems1.Topics-Text_blocks-Text_blocks.main" target="23" />
       <module name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" target="23" />
