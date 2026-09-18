@@ -47,6 +47,7 @@
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Errors in programs" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Validating and squaring user input" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Celsius to Fahrenheit" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Distance" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Exponential expression" />
             <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Find X" />
@@ -65,6 +66,7 @@
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment and decrement" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, decrement, then double n" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube" />
@@ -79,6 +81,9 @@
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Difference of times" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer types and operations" />
             <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Iterating over arrays" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Calculating factorial of a given number" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Fixing errors in main" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Method  main" />
