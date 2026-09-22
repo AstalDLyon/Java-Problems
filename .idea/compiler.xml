@@ -22,9 +22,16 @@
       <module name="Java_Problems1.Topics-Comments-Javadoc_comment.main" target="23" />
       <module name="Java_Problems1.Topics-Comments-Printing_only_the_longest_line.main" target="23" />
       <module name="Java_Problems1.Topics-Comments-The_countdown.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Check_the_sum.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Check_the_value.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Comparing_two_integers__greater,_less_or_equal.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Comparing_values__Relational_operators.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Groundhogs_at_a_party.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Is_between.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Check_a_number_is_positive.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Conditional_statement.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Interval.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Leap_year.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-The_army_of_units.main" target="23" />
       <module name="Java_Problems1.Topics-Conditional_statement-Triangle.main" target="23" />
@@ -48,6 +55,7 @@
       <module name="Java_Problems1.Topics-For_loop-For_loop.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-Numbers_divisible_by_six.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-Summoning_the_special_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-The_count_of_numbers_divisible_by_N.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-The_product_of_numbers_from_a_to_b.main" target="23" />
       <module name="Java_Problems1.Topics-For_loop-The_sum_of_integers_from_a_to_b.main" target="23" />
       <module name="Java_Problems1.Topics-Functional_decomposition-Checking_divisibility_and_printing_appropriate_strings.main" target="23" />
@@ -73,11 +81,16 @@
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Integer_types_and_operations.main" target="23" />
       <module name="Java_Problems1.Topics-Integer_types_and_operations-Tens_digit.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="23" />
+      <module name="Java_Problems1.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Iterating_over_arrays.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="23" />
+      <module name="Java_Problems1.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Fixing_errors_in_main.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Method__main.main" target="23" />
+      <module name="Java_Problems1.Topics-Multidimensional_array-Find_the_corners.main" target="23" />
+      <module name="Java_Problems1.Topics-Multidimensional_array-Multidimensional_array.main" target="23" />
+      <module name="Java_Problems1.Topics-Multidimensional_array-Swap_the_columns.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Harry_Potter.main" target="23" />
@@ -106,6 +119,7 @@
       <module name="Java_Problems1.Topics-Random_class-Find_the_seed.main" target="23" />
       <module name="Java_Problems1.Topics-Random_class-Random_class.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Detail_manufacturing.main" target="23" />
+      <module name="Java_Problems1.Topics-Static_members-Project_constants_and_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Static_members.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Time_constants.main" target="23" />
       <module name="Java_Problems1.Topics-Static_members-Too_many_cats.main" target="23" />

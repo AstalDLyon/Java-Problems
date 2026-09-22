@@ -2,3 +2,5 @@ content:
   - Iterating over arrays
   - Count how many times a number occurs
   - The sum of array elements
+  - Two numbers never occur next to each other
+  - Cyclically shifting elements
