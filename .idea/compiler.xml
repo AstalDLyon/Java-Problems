@@ -85,6 +85,8 @@
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Iterating_over_arrays.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="23" />
+      <module name="Java_Problems1.Topics-java_util_Arrays-Convert_the_array_to_a_stream.main" target="23" />
+      <module name="Java_Problems1.Topics-java_util_Arrays-java_util_Arrays.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Fixing_errors_in_main.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Method__main.main" target="23" />

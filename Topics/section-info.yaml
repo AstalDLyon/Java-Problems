@@ -35,3 +35,4 @@ content:
   - Iterating over arrays
   - Comparing values. Relational operators
   - Multidimensional array
+  - java.util.Arrays
