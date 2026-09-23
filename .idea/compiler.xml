@@ -110,6 +110,7 @@
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Determining_if_an_integer_is_odd_or_even.main" target="23" />
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-One-line_condition_with_ternary_operator.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="23" />
+      <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Primitive_and_reference_types.main" target="23" />
       <module name="Java_Problems1.Topics-Printing_data-First,_second,_third.main" target="23" />
       <module name="Java_Problems1.Topics-Printing_data-Printing_data.main" target="23" />
@@ -138,6 +139,7 @@
       <module name="Java_Problems1.Topics-While_and_do-while_loops-Celsius_Chase__Climbing_to_a_Fiery_Halt.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-The_largest_element_of_a_sequence.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-The_length_of_the_sequence.main" target="23" />
+      <module name="Java_Problems1.Topics-While_and_do-while_loops-The_sequence.main" target="23" />
       <module name="Java_Problems1.Topics-While_and_do-while_loops-While_and_do-while_loops.main" target="23" />
       <module name="Java_Problems1.util.main" target="23" />
     </bytecodeTargetLevel>
