@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Arithmetic operations" />
             <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating average speed from distance and time" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Array exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds" />
             <option value="$PROJECT_DIR$/Topics/Array/Array" />
             <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Arrays as parameters" />
@@ -23,6 +25,7 @@
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Break and continue. Branching" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Bus tour" />
             <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching/Squaring up to the next perfect number" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Area of parallelogram" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Calling methods" />
@@ -92,6 +95,7 @@
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Cyclically shifting elements" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Iterating over arrays" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements" />
             <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Two numbers never occur next to each other" />
             <option value="$PROJECT_DIR$/Topics/Method  main/Calculating factorial of a given number" />
@@ -109,6 +113,9 @@
             <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/Naming variables" />
             <option value="$PROJECT_DIR$/Topics/Naming variables/Roadrunner's digital dashboard dilemma" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/NullPointerException" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Topics/NullPointerException/Unknown input" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Objects and their properties" />
@@ -148,6 +155,7 @@
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/The length of the sequence" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/The sequence" />
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/While and do-while loops" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a List" />
             <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a stream" />
             <option value="$PROJECT_DIR$/Topics/java.util.Arrays/java.util.Arrays" />
             <option value="$PROJECT_DIR$/util" />

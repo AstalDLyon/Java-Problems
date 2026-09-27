@@ -36,3 +36,5 @@ content:
   - Comparing values. Relational operators
   - Multidimensional array
   - java.util.Arrays
+  - NullPointerException
+  - Array exceptions
