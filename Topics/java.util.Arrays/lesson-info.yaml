@@ -2,3 +2,4 @@ content:
   - java.util.Arrays
   - Convert the array to a stream
   - Convert the array to a List
+  - Copy the array range

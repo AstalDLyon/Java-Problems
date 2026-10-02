@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/Topics/Array exceptions/Array exceptions" />
             <option value="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds" />
             <option value="$PROJECT_DIR$/Topics/Array/Array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Arrays as parameters" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
@@ -30,6 +31,10 @@
             <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Calling methods" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Product and rounded average of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Combining constants with enum" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Enum weekday from integer input" />
             <option value="$PROJECT_DIR$/Topics/Comments/Comments" />
             <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
             <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
@@ -157,6 +162,7 @@
             <option value="$PROJECT_DIR$/Topics/While and do-while loops/While and do-while loops" />
             <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a List" />
             <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a stream" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Copy the array range" />
             <option value="$PROJECT_DIR$/Topics/java.util.Arrays/java.util.Arrays" />
             <option value="$PROJECT_DIR$/util" />
           </set>

@@ -38,3 +38,4 @@ content:
   - java.util.Arrays
   - NullPointerException
   - Array exceptions
+  - Combining constants with enum

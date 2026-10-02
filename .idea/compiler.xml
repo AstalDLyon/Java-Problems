@@ -5,6 +5,7 @@
       <module name="Java_Problems1.Topics-Arithmetic_operations-Arithmetic_operations.main" target="23" />
       <module name="Java_Problems1.Topics-Arithmetic_operations-Calculating_average_speed_from_distance_and_time.main" target="23" />
       <module name="Java_Problems1.Topics-Array-Array.main" target="23" />
+      <module name="Java_Problems1.Topics-Array-Initializing_an_array_of_characters.main" target="23" />
       <module name="Java_Problems1.Topics-Array-Initializing_an_array_of_longs.main" target="23" />
       <module name="Java_Problems1.Topics-Array_exceptions-Array_exceptions.main" target="23" />
       <module name="Java_Problems1.Topics-Array_exceptions-Out_of_bounds.main" target="23" />
@@ -21,6 +22,10 @@
       <module name="Java_Problems1.Topics-Calling_methods-Call_me_awesome.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Calling_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Calling_methods-Product_and_rounded_average_of_two_integers.main" target="23" />
+      <module name="Java_Problems1.Topics-Combining_constants_with_enum-Combining_constants_with_enum.main" target="23" />
+      <module name="Java_Problems1.Topics-Combining_constants_with_enum-Currencies.main" target="23" />
+      <module name="Java_Problems1.Topics-Combining_constants_with_enum-Days_of_week.main" target="23" />
+      <module name="Java_Problems1.Topics-Combining_constants_with_enum-Enum_weekday_from_integer_input.main" target="23" />
       <module name="Java_Problems1.Topics-Comments-Comments.main" target="23" />
       <module name="Java_Problems1.Topics-Comments-Javadoc_comment.main" target="23" />
       <module name="Java_Problems1.Topics-Comments-Printing_only_the_longest_line.main" target="23" />
@@ -91,6 +96,7 @@
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-Convert_the_array_to_a_List.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-Convert_the_array_to_a_stream.main" target="23" />
+      <module name="Java_Problems1.Topics-java_util_Arrays-Copy_the_array_range.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-java_util_Arrays.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Fixing_errors_in_main.main" target="23" />
