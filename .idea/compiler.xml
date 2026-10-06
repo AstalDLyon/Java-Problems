@@ -106,6 +106,7 @@
       <module name="Java_Problems1.Topics-Multidimensional_array-Multidimensional_array.main" target="23" />
       <module name="Java_Problems1.Topics-Multidimensional_array-Swap_the_columns.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_conditions__switch-Decoding_traffic_signal_colors_from_input_codes.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Harry_Potter.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Multiple_conditions__switch.main" target="23" />
@@ -124,6 +125,9 @@
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.main" target="23" />
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Determining_if_an_integer_is_odd_or_even.main" target="23" />
       <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-One-line_condition_with_ternary_operator.main" target="23" />
+      <module name="Java_Problems1.Topics-Overloading-Calculations_with_two_or_three_numbers_from_input.main" target="23" />
+      <module name="Java_Problems1.Topics-Overloading-Overloading.main" target="23" />
+      <module name="Java_Problems1.Topics-Overloading-Overloading_methods.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="23" />
       <module name="Java_Problems1.Topics-Primitive_and_reference_types-Primitive_and_reference_types.main" target="23" />
