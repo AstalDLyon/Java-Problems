@@ -1,5 +1,6 @@
 # Project exclude paths
 # Ignora todas as pastas de saída de compilação do IntelliJ
+.idea
 **/out/
 **/build/
 

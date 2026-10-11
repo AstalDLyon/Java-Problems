@@ -15,12 +15,5 @@ class Main {
          it is performed for all matches, i.e. all characters.
         */
         System.out.println(s);
-        // OU SE PRECISAR FAZER NA MÃO, USE UMA VARIAVEL TEMPORARIA PARA TRANSFERENCIA:
-        String result = "";
-        for (int i = 0; i < myString.length(); i++ ){
-            char c = myString.charAt(i);
-            result = result + c + c; // result = "" + c + c; tbm funciona
-        }
-        System.out.println(result);
     }
 }

@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/Topics/Array/Array" />
             <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of characters" />
             <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Arrays as parameters" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Boolean type and operations. True and false" />
@@ -59,6 +60,7 @@
             <option value="$PROJECT_DIR$/Topics/Defining classes/Books" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Defining classes/Defining classes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Errors in programs" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/Validating and squaring user input" />
             <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
@@ -79,10 +81,19 @@
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Functional decomposition" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Math wizardry in your pocket" />
             <option value="$PROJECT_DIR$/Topics/Functional decomposition/Method createFullName" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Creating a class for a book with private properties" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Getters and setters" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Creating instances" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Getting input" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Grouping classes with packages" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment and decrement" />
             <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, decrement, then double n" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/calculating triangle perimeter" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube" />
@@ -124,6 +135,7 @@
             <option value="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null" />
             <option value="$PROJECT_DIR$/Topics/NullPointerException/Unknown input" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Change identities" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Objects and their properties" />
             <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero" />
@@ -140,9 +152,12 @@
             <option value="$PROJECT_DIR$/Topics/Printing data/Printing data" />
             <option value="$PROJECT_DIR$/Topics/Printing data/Square a user-inputted integer" />
             <option value="$PROJECT_DIR$/Topics/Printing data/We need to learn Java" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Crafting a Secret Key - Transform Vowels to Unlock the Treasure" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/Processing strings" />
             <option value="$PROJECT_DIR$/Topics/Processing strings/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Whimsical game" />
             <option value="$PROJECT_DIR$/Topics/Random class/Find the seed" />
             <option value="$PROJECT_DIR$/Topics/Random class/Random class" />
             <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />

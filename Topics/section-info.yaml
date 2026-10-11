@@ -40,3 +40,6 @@ content:
   - Array exceptions
   - Combining constants with enum
   - Overloading
+  - Grouping classes with packages
+  - Getters and setters
+  - Inheritance
