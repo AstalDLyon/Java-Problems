@@ -109,6 +109,9 @@
       <module name="Java_Problems1.Topics-java_util_Arrays-Convert_the_array_to_a_stream.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-Copy_the_array_range.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-java_util_Arrays.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Employees.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Fix_the_non-compiled_hierarchy.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Keyword__super.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Fixing_errors_in_main.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Method__main.main" target="23" />
@@ -123,6 +126,10 @@
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Multiple_conditions__switch.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Shape.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Test_learners.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_constructors-Book_store_program_with_varying_number_of_parameters.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_constructors-Employee.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_constructors-Multiple_constructors.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_constructors-Time.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-From_cryptic_to_crystal__Weather's_facelift.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Naming_variables.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Roadrunner's_digital_dashboard_dilemma.main" target="23" />

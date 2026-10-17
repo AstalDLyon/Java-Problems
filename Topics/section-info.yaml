@@ -43,3 +43,5 @@ content:
   - Grouping classes with packages
   - Getters and setters
   - Inheritance
+  - Multiple constructors
+  - Keyword  super
