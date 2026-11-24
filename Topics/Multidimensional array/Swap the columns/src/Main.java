@@ -6,11 +6,12 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         int[][] resultado = manipulation(scanner);
 
+        // Imprime a matriz resultante no formato esperado
         for (int i = 0; i < resultado.length; i++) {
             for (int j = 0; j < resultado[i].length; j++) {
                 System.out.print(resultado[i][j] + (j == resultado[i].length - 1 ? "" : " "));
             }
-            System.out.println();
+            System.out.println(); // Pula de linha após imprimir todas as colunas
         }
 
         scanner.close();

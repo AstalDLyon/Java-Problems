@@ -2,3 +2,4 @@ content:
   - NullPointerException
   - Unknown input
   - Return empty string when argument is null
+  - Print string multiple times based on input

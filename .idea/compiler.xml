@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="25">
+      <module name="Java_Problems1.Topics-Abstract_class-Abstract_class.main" target="23" />
+      <module name="Java_Problems1.Topics-Abstract_class-Shape_hierarchy.main" target="23" />
       <module name="Java_Problems1.Topics-Arithmetic_operations-Arithmetic_operations.main" target="23" />
       <module name="Java_Problems1.Topics-Arithmetic_operations-Calculating_average_speed_from_distance_and_time.main" target="23" />
       <module name="Java_Problems1.Topics-Array-Array.main" target="23" />
@@ -55,6 +57,14 @@
       <module name="Java_Problems1.Topics-Errors_in_programs-Errors_in_programs.main" target="23" />
       <module name="Java_Problems1.Topics-Errors_in_programs-Validating_and_squaring_user_input.main" target="23" />
       <module name="Java_Problems1.Topics-Errors_in_programs-What's_wrong.main" target="23" />
+      <module name="Java_Problems1.Topics-Exception_handling-Catching_some_exceptions.main" target="23" />
+      <module name="Java_Problems1.Topics-Exception_handling-Exception_handling.main" target="23" />
+      <module name="Java_Problems1.Topics-Exception_handling-String_to_double_conversion.main" target="23" />
+      <module name="Java_Problems1.Topics-Fields_and_methods_in_enum-Balance_management.main" target="23" />
+      <module name="Java_Problems1.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="23" />
+      <module name="Java_Problems1.Topics-Fields_and_methods_in_enum-Fields_and_methods_in_enum.main" target="23" />
+      <module name="Java_Problems1.Topics-Fields_and_methods_in_enum-Robot_control.main" target="23" />
+      <module name="Java_Problems1.Topics-Fields_and_methods_in_enum-System_of_units.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Celsius_to_Fahrenheit.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Distance.main" target="23" />
       <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Exponential_expression.main" target="23" />
@@ -79,11 +89,14 @@
       <module name="Java_Problems1.Topics-Grouping_classes_with_packages-Getting_input.main" target="23" />
       <module name="Java_Problems1.Topics-Grouping_classes_with_packages-Grouping_classes_with_packages.main" target="23" />
       <module name="Java_Problems1.Topics-Grouping_classes_with_packages-Sorting_arrays.main" target="23" />
+      <module name="Java_Problems1.Topics-Hierarchy_of_exceptions-Hierarchy_of_exceptions.main" target="23" />
+      <module name="Java_Problems1.Topics-Hierarchy_of_exceptions-UncheckedException.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increment,_decrement,_then_double_n.main" target="23" />
       <module name="Java_Problems1.Topics-Increment_and_decrement-Increment_and_decrement.main" target="23" />
       <module name="Java_Problems1.Topics-Inheritance-calculating_triangle_perimeter.main" target="23" />
+      <module name="Java_Problems1.Topics-Inheritance-Classes_for_Hospital.main" target="23" />
       <module name="Java_Problems1.Topics-Inheritance-Inheritance.main" target="23" />
       <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Account_and_its_owner.main" target="23" />
       <module name="Java_Problems1.Topics-Initializing_new_instances__Constructor-Complex_numbers.main" target="23" />
@@ -102,23 +115,36 @@
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Iterating_over_arrays.main" target="23" />
+      <module name="Java_Problems1.Topics-Iterating_over_arrays-Right_Rotation.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="23" />
       <module name="Java_Problems1.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="23" />
+      <module name="Java_Problems1.Topics-java_util_Arrays-Array_sorting.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-Convert_the_array_to_a_List.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-Convert_the_array_to_a_stream.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-Copy_the_array_range.main" target="23" />
       <module name="Java_Problems1.Topics-java_util_Arrays-java_util_Arrays.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Bank_account.main" target="23" />
       <module name="Java_Problems1.Topics-Keyword__super-Employees.main" target="23" />
       <module name="Java_Problems1.Topics-Keyword__super-Fix_the_non-compiled_hierarchy.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Inheritance_and_constructor_usage_in_pet_namespace.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Inheritance_and_constructor_usage_in_pet_namespace__1_.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-Inheriting_shapes_with_constructors.main" target="23" />
       <module name="Java_Problems1.Topics-Keyword__super-Keyword__super.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-When_the_keyword_is_used.main" target="23" />
+      <module name="Java_Problems1.Topics-Keyword__super-When_the_keyword_is_used__1_.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Calculating_factorial_of_a_given_number.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Fixing_errors_in_main.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Method__main.main" target="23" />
       <module name="Java_Problems1.Topics-Method__main-Print__We_are_robots.main" target="23" />
+      <module name="Java_Problems1.Topics-Method_overriding-Animal_sounds__Cat_meows,_Dog_woofs.main" target="23" />
+      <module name="Java_Problems1.Topics-Method_overriding-Implementing_animal_sounds_through_class_inheritance.main" target="23" />
+      <module name="Java_Problems1.Topics-Method_overriding-Method_overriding.main" target="23" />
+      <module name="Java_Problems1.Topics-Method_overriding-Saying_animals.main" target="23" />
       <module name="Java_Problems1.Topics-Multidimensional_array-Find_the_corners.main" target="23" />
       <module name="Java_Problems1.Topics-Multidimensional_array-Multidimensional_array.main" target="23" />
       <module name="Java_Problems1.Topics-Multidimensional_array-Swap_the_columns.main" target="23" />
+      <module name="Java_Problems1.Topics-Multidimensional_array-The_star_figure.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Day_of_the_week_from_an_integer.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Decoding_traffic_signal_colors_from_input_codes.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_conditions__switch-Floor-space_of_the_room.main" target="23" />
@@ -129,11 +155,13 @@
       <module name="Java_Problems1.Topics-Multiple_constructors-Book_store_program_with_varying_number_of_parameters.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_constructors-Employee.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_constructors-Multiple_constructors.main" target="23" />
+      <module name="Java_Problems1.Topics-Multiple_constructors-Phone.main" target="23" />
       <module name="Java_Problems1.Topics-Multiple_constructors-Time.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-From_cryptic_to_crystal__Weather's_facelift.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Naming_variables.main" target="23" />
       <module name="Java_Problems1.Topics-Naming_variables-Roadrunner's_digital_dashboard_dilemma.main" target="23" />
       <module name="Java_Problems1.Topics-NullPointerException-NullPointerException.main" target="23" />
+      <module name="Java_Problems1.Topics-NullPointerException-Print_string_multiple_times_based_on_input.main" target="23" />
       <module name="Java_Problems1.Topics-NullPointerException-Return_empty_string_when_argument_is_null.main" target="23" />
       <module name="Java_Problems1.Topics-NullPointerException-Unknown_input.main" target="23" />
       <module name="Java_Problems1.Topics-Objects_and_their_properties-Army.main" target="23" />
